@@ -1,1 +1,1 @@
-# fundus_segmention
+# fundus_segmentation
